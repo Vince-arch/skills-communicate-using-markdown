@@ -9,4 +9,8 @@ function greet(name) {
 greet('World');
 ```
 
+- [x] Use header in the markdown.
+- [x] Add image.
+- [x] Add a code block.
+
 largest header size was used.
